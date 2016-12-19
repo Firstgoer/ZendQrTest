@@ -10,10 +10,10 @@
 	],
 	"minimum-stability": "dev",
 	"require": {
-		"zend-http": "~2.5"
+		"zendframework/zend-http": "~2.5"
 	},
 	"autoload": {
-		"psr-0": {
+		"psr-4": {
 			"ZendQrTest\\": "src/"
 		}
 	}

@@ -7,10 +7,10 @@
  * @author: Firstgoer
  */
 
-namespace firstgoer\ZendQrTest;
+namespace ZendQrTest;
 
 
-use firstgoer\ZendQrTest\Renderer\RendererInterface;
+use ZendQrTest\Renderer\RendererInterface;
 use src\QrCodeException;
 
 /**

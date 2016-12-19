@@ -7,7 +7,7 @@
  * @author: Firstgoer
  */
 
-namespace firstgoer\ZendQrTest\Renderer;
+namespace ZendQrTest\Renderer;
 
 
 /**

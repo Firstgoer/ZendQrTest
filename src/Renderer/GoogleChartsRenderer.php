@@ -7,10 +7,10 @@
  * @author: Firstgoer
  */
 
-namespace firstgoer\ZendQrTest\Renderer;
+namespace ZendQrTest\Renderer;
 
 
-use src\QrCodeException;
+use ZendQrTest\QrCodeException;
 use Zend\Http\Client;
 use Zend\Http\Client\Adapter\Curl;
 use Zend\Http\Exception\RuntimeException;

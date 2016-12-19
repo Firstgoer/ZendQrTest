@@ -7,8 +7,7 @@
  * @author: Firstgoer
  */
 
-namespace src;
-
+namespace ZendQrTest;
 
 class QrCodeException extends \RuntimeException
 {

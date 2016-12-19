@@ -1,17 +1,12 @@
 <?php
 /**
- * Краткое описание.
- *
- * Длинное описание.
- *
+ * Main file for creating QR codes
  * @author: Firstgoer
  */
 
 namespace ZendQrTest;
 
-
 use ZendQrTest\Renderer\RendererInterface;
-use src\QrCodeException;
 
 /**
  * Class QrCode

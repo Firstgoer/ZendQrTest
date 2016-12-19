@@ -1,9 +1,6 @@
 <?php
 /**
- * Краткое описание.
- *
- * Длинное описание.
- *
+ * Abstract class, created for generating QRCode using http client
  * @author: Firstgoer
  */
 

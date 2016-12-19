@@ -1,9 +1,6 @@
 <?php
 /**
- * Краткое описание.
- *
- * Длинное описание.
- *
+ * Intergace for creating qr codes
  * @author: Firstgoer
  */
 

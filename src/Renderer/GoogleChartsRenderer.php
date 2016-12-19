@@ -1,9 +1,6 @@
 <?php
 /**
- * Краткое описание.
- *
- * Длинное описание.
- *
+ * This class is wrapper for Google Charts QRCode
  * @author: Firstgoer
  */
 

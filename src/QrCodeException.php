@@ -1,9 +1,6 @@
 <?php
 /**
- * Краткое описание.
- *
- * Длинное описание.
- *
+ * Exceprion class, used in library
  * @author: Firstgoer
  */
 

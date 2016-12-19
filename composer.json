@@ -1,0 +1,20 @@
+{
+	"name": "firstgoer/zendqrtest",
+	"description": "test task for TrekkSoft",
+	"type": "library",
+	"authors": [
+		{
+			"name": "Firstgoer",
+			"email": "2garin.507k@gmail.com"
+		}
+	],
+	"minimum-stability": "dev",
+	"require": {
+		"zend-http": "~2.5"
+	},
+	"autoload": {
+		"psr-0": {
+			"ZendQrTest\\": "src/"
+		}
+	}
+}
